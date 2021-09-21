@@ -1,0 +1,10 @@
+coffee
+apple juice
+tea
+milk
+water
+latte
+strawberry smoothie
+ginger ale
+hot chocolate
+

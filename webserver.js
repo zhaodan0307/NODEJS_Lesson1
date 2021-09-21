@@ -1,4 +1,5 @@
 //reference node's built-in http library to run a local web server
+//使用了http library
 let http = require('http');
 
 //use the http library to start a web server and listen for HTTP request events and send an http response
